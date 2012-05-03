@@ -1,0 +1,178 @@
+<systems count='50'>
+	<system systemId='30001001' systemName='H-ADOC' xPixel='682' yPixel='342' />
+	<system systemId='30001002' systemName='G-G78S' xPixel='752' yPixel='371' />
+	<system systemId='30001003' systemName='UW9B-F' xPixel='745' yPixel='500' />
+	<system systemId='30001004' systemName='ZZ-ZWC' xPixel='780' yPixel='321' />
+	<system systemId='30001005' systemName='OSY-UD' xPixel='744' yPixel='400' />
+	<system systemId='30001006' systemName='K-MGJ7' xPixel='667' yPixel='580' />
+	<system systemId='30001007' systemName='JWJ-P1' xPixel='371' yPixel='413' />
+	<system systemId='30001008' systemName='V-IUEL' xPixel='467' yPixel='447' />
+	<system systemId='30001009' systemName='0SHT-A' xPixel='449' yPixel='434' />
+	<system systemId='30001010' systemName='D87E-A' xPixel='476' yPixel='331' />
+	<system systemId='30001011' systemName='K-B2D3' xPixel='519' yPixel='328' />
+	<system systemId='30001012' systemName='PO4F-3' xPixel='458' yPixel='385' />
+	<system systemId='30001013' systemName='J7A-UR' xPixel='356' yPixel='491' />
+	<system systemId='30001014' systemName='5E-VR8' xPixel='509' yPixel='357' />
+	<system systemId='30001015' systemName='V7D-JD' xPixel='451' yPixel='305' />
+	<system systemId='30001016' systemName='HLW-HP' xPixel='418' yPixel='146' />
+	<system systemId='30001017' systemName='8G-MQV' xPixel='477' yPixel='222' />
+	<system systemId='30001018' systemName='RA-NXN' xPixel='403' yPixel='194' />
+	<system systemId='30001019' systemName='VOL-MI' xPixel='507' yPixel='259' />
+	<system systemId='30001020' systemName='KLMT-W' xPixel='388' yPixel='95' />
+	<system systemId='30001021' systemName='XX9-WV' xPixel='476' yPixel='264' />
+	<system systemId='30001022' systemName='AAM-1A' xPixel='286' yPixel='290' />
+	<system systemId='30001023' systemName='EW-JR5' xPixel='395' yPixel='217' />
+	<system systemId='30001024' systemName='YKE4-3' xPixel='236' yPixel='169' />
+	<system systemId='30001025' systemName='CL-85V' xPixel='433' yPixel='232' />
+	<system systemId='30001026' systemName='K-QWHE' xPixel='315' yPixel='217' />
+	<system systemId='30001027' systemName='MDD-79' xPixel='414' yPixel='157' />
+	<system systemId='30001028' systemName='RMOC-W' xPixel='206' yPixel='216' />
+	<system systemId='30001029' systemName='ES-UWY' xPixel='610' yPixel='316' />
+	<system systemId='30001030' systemName='S1DP-Y' xPixel='476' yPixel='334' />
+	<system systemId='30001031' systemName='Y-DW5K' xPixel='571' yPixel='335' />
+	<system systemId='30001032' systemName='M-N7WD' xPixel='505' yPixel='309' />
+	<system systemId='30001033' systemName='QFEW-K' xPixel='618' yPixel='359' />
+	<system systemId='30001034' systemName='CVY-UC' xPixel='622' yPixel='439' />
+	<system systemId='30001035' systemName='EQX-AE' xPixel='659' yPixel='433' />
+	<system systemId='30001036' systemName='G-R4W1' xPixel='272' yPixel='20' />
+	<system systemId='30001037' systemName='BPK-XK' xPixel='188' yPixel='108' />
+	<system systemId='30001038' systemName='LJ-YSW' xPixel='336' yPixel='32' />
+	<system systemId='30001039' systemName='Y-K50G' xPixel='262' yPixel='95' />
+	<system systemId='30001040' systemName='K88X-J' xPixel='268' yPixel='193' />
+	<system systemId='30001041' systemName='G-0Q86' xPixel='318' yPixel='64' />
+	<system systemId='30001042' systemName='CL-1JE' xPixel='171' yPixel='159' />
+	<system systemId='30001043' systemName='J4UD-J' xPixel='167' yPixel='197' />
+	<system systemId='30001044' systemName='Hemin' xPixel='151' yPixel='139' />
+	<system systemId='30001045' systemName='Utopia' xPixel='82' yPixel='136' />
+	<system systemId='30001046' systemName='Jorund' xPixel='75' yPixel='112' />
+	<system systemId='30001047' systemName='Doril' xPixel='20' yPixel='115' />
+	<system systemId='30001048' systemName='Litom' xPixel='51' yPixel='186' />
+	<system systemId='30001049' systemName='Farit' xPixel='32' yPixel='81' />
+	<system systemId='30001050' systemName='Jamunda' xPixel='39' yPixel='212' />
+</systems>
+<connections count='124'>
+	<connection fromSystemId='30001001' toSystemId='30000657' />
+	<connection fromSystemId='30001001' toSystemId='30001002' />
+	<connection fromSystemId='30001001' toSystemId='30001005' />
+	<connection fromSystemId='30001001' toSystemId='30001031' />
+	<connection fromSystemId='30001001' toSystemId='30001035' />
+	<connection fromSystemId='30001002' toSystemId='30001001' />
+	<connection fromSystemId='30001002' toSystemId='30001003' />
+	<connection fromSystemId='30001002' toSystemId='30001004' />
+	<connection fromSystemId='30001002' toSystemId='30001005' />
+	<connection fromSystemId='30001003' toSystemId='30001002' />
+	<connection fromSystemId='30001003' toSystemId='30001006' />
+	<connection fromSystemId='30001004' toSystemId='30001002' />
+	<connection fromSystemId='30001005' toSystemId='30001001' />
+	<connection fromSystemId='30001005' toSystemId='30001002' />
+	<connection fromSystemId='30001006' toSystemId='30001003' />
+	<connection fromSystemId='30001007' toSystemId='30001009' />
+	<connection fromSystemId='30001007' toSystemId='30001013' />
+	<connection fromSystemId='30001008' toSystemId='30001009' />
+	<connection fromSystemId='30001008' toSystemId='30001012' />
+	<connection fromSystemId='30001009' toSystemId='30001007' />
+	<connection fromSystemId='30001009' toSystemId='30001008' />
+	<connection fromSystemId='30001009' toSystemId='30001010' />
+	<connection fromSystemId='30001009' toSystemId='30001155' />
+	<connection fromSystemId='30001010' toSystemId='30001009' />
+	<connection fromSystemId='30001010' toSystemId='30001011' />
+	<connection fromSystemId='30001010' toSystemId='30001012' />
+	<connection fromSystemId='30001010' toSystemId='30001014' />
+	<connection fromSystemId='30001010' toSystemId='30001015' />
+	<connection fromSystemId='30001011' toSystemId='30001010' />
+	<connection fromSystemId='30001011' toSystemId='30001012' />
+	<connection fromSystemId='30001011' toSystemId='30001014' />
+	<connection fromSystemId='30001011' toSystemId='30001019' />
+	<connection fromSystemId='30001012' toSystemId='30001008' />
+	<connection fromSystemId='30001012' toSystemId='30001010' />
+	<connection fromSystemId='30001012' toSystemId='30001011' />
+	<connection fromSystemId='30001013' toSystemId='30001007' />
+	<connection fromSystemId='30001014' toSystemId='30001010' />
+	<connection fromSystemId='30001014' toSystemId='30001011' />
+	<connection fromSystemId='30001014' toSystemId='30001015' />
+	<connection fromSystemId='30001015' toSystemId='30001010' />
+	<connection fromSystemId='30001015' toSystemId='30001014' />
+	<connection fromSystemId='30001016' toSystemId='30001018' />
+	<connection fromSystemId='30001016' toSystemId='30001019' />
+	<connection fromSystemId='30001016' toSystemId='30001020' />
+	<connection fromSystemId='30001017' toSystemId='30001019' />
+	<connection fromSystemId='30001017' toSystemId='30001025' />
+	<connection fromSystemId='30001018' toSystemId='30001016' />
+	<connection fromSystemId='30001018' toSystemId='30001021' />
+	<connection fromSystemId='30001019' toSystemId='30000656' />
+	<connection fromSystemId='30001019' toSystemId='30001011' />
+	<connection fromSystemId='30001019' toSystemId='30001016' />
+	<connection fromSystemId='30001019' toSystemId='30001017' />
+	<connection fromSystemId='30001020' toSystemId='30000921' />
+	<connection fromSystemId='30001020' toSystemId='30001016' />
+	<connection fromSystemId='30001020' toSystemId='30001041' />
+	<connection fromSystemId='30001021' toSystemId='30000688' />
+	<connection fromSystemId='30001021' toSystemId='30001018' />
+	<connection fromSystemId='30001021' toSystemId='30001032' />
+	<connection fromSystemId='30001022' toSystemId='30001026' />
+	<connection fromSystemId='30001023' toSystemId='30001025' />
+	<connection fromSystemId='30001023' toSystemId='30001027' />
+	<connection fromSystemId='30001024' toSystemId='30001026' />
+	<connection fromSystemId='30001024' toSystemId='30001028' />
+	<connection fromSystemId='30001025' toSystemId='30001017' />
+	<connection fromSystemId='30001025' toSystemId='30001023' />
+	<connection fromSystemId='30001025' toSystemId='30001026' />
+	<connection fromSystemId='30001026' toSystemId='30001022' />
+	<connection fromSystemId='30001026' toSystemId='30001024' />
+	<connection fromSystemId='30001026' toSystemId='30001025' />
+	<connection fromSystemId='30001026' toSystemId='30001028' />
+	<connection fromSystemId='30001027' toSystemId='30001023' />
+	<connection fromSystemId='30001028' toSystemId='30001024' />
+	<connection fromSystemId='30001028' toSystemId='30001026' />
+	<connection fromSystemId='30001028' toSystemId='30001044' />
+	<connection fromSystemId='30001029' toSystemId='30000657' />
+	<connection fromSystemId='30001029' toSystemId='30001031' />
+	<connection fromSystemId='30001030' toSystemId='30001032' />
+	<connection fromSystemId='30001031' toSystemId='30001001' />
+	<connection fromSystemId='30001031' toSystemId='30001029' />
+	<connection fromSystemId='30001031' toSystemId='30001032' />
+	<connection fromSystemId='30001031' toSystemId='30001033' />
+	<connection fromSystemId='30001032' toSystemId='30001021' />
+	<connection fromSystemId='30001032' toSystemId='30001030' />
+	<connection fromSystemId='30001032' toSystemId='30001031' />
+	<connection fromSystemId='30001033' toSystemId='30001031' />
+	<connection fromSystemId='30001033' toSystemId='30001034' />
+	<connection fromSystemId='30001033' toSystemId='30001035' />
+	<connection fromSystemId='30001034' toSystemId='30001033' />
+	<connection fromSystemId='30001035' toSystemId='30001001' />
+	<connection fromSystemId='30001035' toSystemId='30001033' />
+	<connection fromSystemId='30001036' toSystemId='30001041' />
+	<connection fromSystemId='30001037' toSystemId='30001039' />
+	<connection fromSystemId='30001037' toSystemId='30001042' />
+	<connection fromSystemId='30001038' toSystemId='30001041' />
+	<connection fromSystemId='30001038' toSystemId='30001042' />
+	<connection fromSystemId='30001039' toSystemId='30001037' />
+	<connection fromSystemId='30001039' toSystemId='30001040' />
+	<connection fromSystemId='30001039' toSystemId='30001041' />
+	<connection fromSystemId='30001040' toSystemId='30001039' />
+	<connection fromSystemId='30001041' toSystemId='30001020' />
+	<connection fromSystemId='30001041' toSystemId='30001036' />
+	<connection fromSystemId='30001041' toSystemId='30001038' />
+	<connection fromSystemId='30001041' toSystemId='30001039' />
+	<connection fromSystemId='30001042' toSystemId='30001037' />
+	<connection fromSystemId='30001042' toSystemId='30001038' />
+	<connection fromSystemId='30001042' toSystemId='30001043' />
+	<connection fromSystemId='30001043' toSystemId='30001042' />
+	<connection fromSystemId='30001044' toSystemId='30001028' />
+	<connection fromSystemId='30001044' toSystemId='30001045' />
+	<connection fromSystemId='30001044' toSystemId='30001046' />
+	<connection fromSystemId='30001045' toSystemId='30001044' />
+	<connection fromSystemId='30001045' toSystemId='30001047' />
+	<connection fromSystemId='30001045' toSystemId='30001048' />
+	<connection fromSystemId='30001046' toSystemId='30001044' />
+	<connection fromSystemId='30001046' toSystemId='30001047' />
+	<connection fromSystemId='30001046' toSystemId='30001049' />
+	<connection fromSystemId='30001047' toSystemId='30000015' />
+	<connection fromSystemId='30001047' toSystemId='30001045' />
+	<connection fromSystemId='30001047' toSystemId='30001046' />
+	<connection fromSystemId='30001048' toSystemId='30001045' />
+	<connection fromSystemId='30001048' toSystemId='30001050' />
+	<connection fromSystemId='30001049' toSystemId='30001046' />
+	<connection fromSystemId='30001050' toSystemId='30001048' />
+	<connection fromSystemId='30001050' toSystemId='30001170' />
+</connections>
